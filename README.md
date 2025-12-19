@@ -53,8 +53,8 @@ The program will analyze the text and print a report to the terminal.
 
 #Learning Goals
 
--Practice Python functions and modules
--Work with files and strings
--Learn basic project structure
--Get comfortable using Git and GitHub
+- Practice Python functions and modules
+- Work with files and strings
+- Learn basic project structure
+- Get comfortable using Git and GitHub
 
