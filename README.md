@@ -15,14 +15,14 @@ This project was built as part of the **Boot.dev Python course** and is intended
 
 ---
 
-#Requirements
+# Requirements
 
 - Python **3.8+**
 - No external libraries required
 
 ---
 
-#Installation
+# Installation
 
 Clone the repository:
 
@@ -37,7 +37,7 @@ cd bookbot
 ```
 
 
-#Usage
+# Usage
 
 Place your text file (ebook) inside the project directory
 (for example: book.txt)
@@ -51,7 +51,7 @@ python main.py
 The program will analyze the text and print a report to the terminal.
 
 
-#Learning Goals
+# Learning Goals
 
 - Practice Python functions and modules
 - Work with files and strings
